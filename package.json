@@ -1,0 +1,13 @@
+{
+  "name": "wa-server-render",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot backend — deploy no Render.com",
+  "main": "wa-server.js",
+  "scripts": {
+    "start": "node wa-server.js"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4",
+    "whatsapp-web.js": "^1.34.7"
+  }
+}
